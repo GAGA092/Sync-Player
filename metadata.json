@@ -1,0 +1,6 @@
+{
+  "name": "Sync Player",
+  "description": "Your Complete Offline Media Experience. Premium music, video, and photo player with synchronized lyrics, equalizer, and tactile glassmorphic design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
